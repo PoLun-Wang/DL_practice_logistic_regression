@@ -6,7 +6,6 @@
      - [Backpropagation(BP) 倒傳遞法 #1 工作原理與說明](https://www.brilliantcode.net/1326/backpropagation-1-gradient-descent-chain-rule/)
      - [Backpropagation(BP) 倒傳遞法 #2 貓貓分類器-2層類神經網路](https://www.brilliantcode.net/1381/backpropagation-2-forward-pass-backward-pass/)
      - [Backpropagation(BP) 倒傳遞法 #3 貓貓分類器-N層類神經網路](https://www.brilliantcode.net/1527/backpropagation-3-n-layer-neural-networks/)
-        **(We are working on this.)**
 ## References
  - "Neural Networks and Deep Learning" on Coursera.
 ## Programs
